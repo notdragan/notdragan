@@ -10,7 +10,7 @@ During lockdown, I developped a passion for coding and everything IT related (ma
 * ✉️  You can contact me at [dragan.ig2i@gmail.com](mailto:dragan.ig2i@gmail.com)
 * 🚀  I'm currently working on private school projects, web applications & electronics project.
 * 🧠  I'm learning Assembly, HTML/CSS/PHP/SQL, Windows Kernel Developpement and AI in general
-* 🤾‍♂️  I'm a regional handball/national referee as well as a goalkeeper for a small team in France.
+* 🤾‍♂️  I'm a regional/national handball referee as well as a goalkeeper for a small team in France.
 
 <a href="https://www.github.com/notdragan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/notdragan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
