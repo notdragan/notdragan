@@ -4,7 +4,7 @@ Hi 👋 My name is Dragan
 Student in Industrial and Computer Engineering
 ----------------------------------------------
 
-During lockdown, I developped a passion for coding and everything IT related (making softwares, building game launchers...) It was really a turning point in my life as I had finally found my dream job: being a developper. But it was just before graduating from high school that I thought: why not reaching higher than just being a regular developper, why not being an engineer? And here I am, studying at Lille Central's (IG2I) school. It has, for now, been the greatest experience of my life, and I am really greatful for that!
+During lockdown, I developped a passion for coding and everything IT related (making softwares, building game launchers...) It was a real a turning point in my life as I had finally found my dream job: being a developper. But it was just before graduating from high school that I thought: why not reaching higher than just being a regular developper, why not being an engineer? And here I am, studying at Lille Central's (IG2I) school. It has, for now, been the greatest experience of my life, and I am really greatful for that!
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [dragan.ig2i@gmail.com](mailto:dragan.ig2i@gmail.com)
